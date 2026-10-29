@@ -92,14 +92,6 @@ Relative to the fixed-schedule benchmark, ML-based deterministic optimization im
 
 The perfect-foresight strategy represents an ex-post benchmark rather than an implementable trading strategy.
 
-### Trading Performance
-
-![Comparison of trading strategies](figures/fig1_trading_comparison.png)
-
-### Forecast Uncertainty Calibration
-
-![Forecast uncertainty calibration](figures/fig4_uncertainty_calibration.png)
-
 ### Impact of Operating Costs
 
 Under the illustrative high-cost configuration, cost-aware optimization improves realized net operating profit by:
