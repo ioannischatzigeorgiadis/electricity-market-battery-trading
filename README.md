@@ -138,7 +138,12 @@ Furthermore, nominal 90% forecast uncertainty intervals achieve realized coverag
 
 The study uses historical German electricity prices, including data from the 2012–2017 period and Germany/Luxembourg day-ahead market observations for 2019 and 2020.
 
-Original datasets are not redistributed in this repository pending verification of their redistribution terms.
+- [SMARD — German Electricity Market Data](https://www.smard.de/en)
+- [Zenodo — Historical Electricity Price Dataset](https://doi.org/10.5281/zenodo.4624805)
+
+The original datasets are not redistributed in this repository.
+Users should obtain the data from the respective sources
+and follow their applicable licensing conditions.
 
 Python dependencies are documented in `requirements.txt`, while `requirements-lock.txt` records a specific dependency environment.
 
