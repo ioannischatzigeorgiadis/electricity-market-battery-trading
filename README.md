@@ -154,7 +154,7 @@ Ioannis O. Chatzigeorgiadis
 Diploma in Electrical and Computer Engineering  
 National Technical University of Athens, Greece
 
-[View full paper (PDF)](paper/paper.pdf)
+[View full paper (PDF)](paper/Paper.pdf)
 
 ## Limitations and Future Work
 
